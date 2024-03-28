@@ -1,0 +1,33 @@
+.font-title{
+    font-family: "Kode Mono", monospace;
+}
+.bg-navbar{
+    background-color: blueviolet;
+}
+
+body{
+    margin: 0;
+}
+
+.font-second{
+    font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+.bg-title{
+    background-color: blueviolet;
+}
+
+.text-color{
+    color: yellow;
+}
+.bg-form{
+    background-color: blueviolet;
+}
+
+.bg-footer{
+    background-color: blueviolet;
+}
+
+.bg-card{
+    background-color: yellow;
+}
